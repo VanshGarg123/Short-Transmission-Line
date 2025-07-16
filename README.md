@@ -18,6 +18,6 @@ To compare and visualize the **line-to-neutral voltages**, **line currents**, an
 
 | File                         | Description                                         |
 |-----------------------------|-----------------------------------------------------|
-| `short_line_model.slx`      | Simulink model of the short transmission line       |
-| `plot_results.m`            | MATLAB script to visualize results in subplots      |
+| `Model.slx`      | Simulink model of the short transmission line       |
+| `main.m`            | MATLAB script to visualize results in subplots      |
 | `README.md`                 | Project documentation (this file)                   |
